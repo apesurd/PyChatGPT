@@ -1,8 +1,6 @@
-[Discord Discussion](https://discord.gg/MqeaZsy4F5)
-Current State: Not maintained. Not Working.
-
-Sorry guys! Really busy with private projects. This was very fun!
-
+# Disclaimer
+This project is forked from https://github.com/rawandahmad698/PyChatGPT
+As the project is discontinued (at the time of forking), some of the features as mentioned in the documention might not work as expected.
 
 # 🔥 PyChatGPT
 [Read More - How OpenAI filters requests made by bots/scrapers](https://github.com/rawandahmad698/PyChatGPT/discussions/103)
@@ -10,12 +8,6 @@ Sorry guys! Really busy with private projects. This was very fun!
 [![Python](https://img.shields.io/badge/python-3.8-blue.svg)](https://img.shields.io/badge/python-3.8-blue.svg)
 [![PyPi](https://img.shields.io/pypi/v/chatgptpy.svg)](https://pypi.python.org/pypi/chatgptpy)
 [![PyPi](https://img.shields.io/pypi/dm/chatgptpy.svg)](https://pypi.python.org/pypi/chatgptpy)
-
-*⭐️ Like this repo? please star & consider donating to keep it maintained*
-
-<a href="https://www.buymeacoffee.com/rawandahmed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-*💡 If OpenAI change their API, I will fix it as soon as possible, so <mark>Watch</mark> the repo if you want to be notified*
 
 ### Features
 - [x] Save Conversations to a file
