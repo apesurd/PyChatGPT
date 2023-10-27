@@ -1,5 +1,6 @@
 *.json
 *.txt
+.idea
 dist
 venv
 __pycache__
